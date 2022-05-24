@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193423051822",
+    "project_id": "todoapp-b1b6d",
+    "storage_bucket": "todoapp-b1b6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193423051822:android:87ab281ac7bb92b3bf23bf",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_latihan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193423051822-p2437kicfm455nv72hroop9gjcknljbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApGcZiiHvBJzOb7Z1FO9luwhJA3JaCBd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193423051822-p2437kicfm455nv72hroop9gjcknljbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
