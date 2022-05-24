@@ -1,3 +1,6 @@
+CATATAN !!!
+**Flutter pub get** terlebih dahulu melalui command prompt di dalam folder project
+
 # flutter_firebase_latihan
 
 A new Flutter project.
